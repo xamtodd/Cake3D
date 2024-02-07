@@ -2,7 +2,7 @@
 
 - GerbethM_cake.blend
 - GerbethM_cake.spp
-- GerbethM_screenshot.blend
+- GerbethM_cake.jpg => Screenshot
 
 
 ![Screenshot](GerbethM_cake.jpg)
